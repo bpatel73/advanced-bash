@@ -55,3 +55,4 @@ chmod +x script.sh
 ./script.sh
 echo Bob
 echo Bob
+echo Bob
