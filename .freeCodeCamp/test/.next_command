@@ -31,3 +31,4 @@ echo hello bash > stdout.txt
 bad commnad
 bad command
 bad_command
+bad_command > stderr.txt
