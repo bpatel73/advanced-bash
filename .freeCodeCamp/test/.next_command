@@ -48,3 +48,4 @@ cat name.txt
 cat name.txt < name.txt
 cat < name.txt
 echo Bob
+touch script.sh
