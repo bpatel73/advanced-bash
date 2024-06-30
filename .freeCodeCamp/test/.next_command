@@ -49,3 +49,4 @@ cat name.txt < name.txt
 cat < name.txt
 echo Bob
 touch script.sh
+chmod +x script.sh
