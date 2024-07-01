@@ -279,3 +279,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cat doggy_ipsum.txt
 cat doggy_ipsum_1.txt
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt
+man diff
