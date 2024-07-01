@@ -276,3 +276,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_2.txt
 ./translate.sh kitty_ipsum_1.txt > doggy_ipsum_1.txt
+cat doggy_ipsum.txt
+cat doggy_ipsum_1.txt
