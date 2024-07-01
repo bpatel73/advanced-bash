@@ -222,3 +222,4 @@ grep cat[a-z]* kitty_ipsum_2.txt --colors
 grep cat[a-z]* kitty_ipsum_2.txt --color
 echo -e "\nNumber of time cat, cats, or catnip appears:" >> kitty_info.txt
 echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
+grep cat[a-z]* kitty_ipsum_2.txt -o
