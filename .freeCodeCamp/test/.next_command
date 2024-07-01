@@ -214,3 +214,5 @@ wc -l
 wc
 grep meow[a-z]* kitty_ipsum_2.txt -o
 grep meow[a-z]* kitty_ipsum_2.txt -o
+echo -e "\Lines that they appear on:" >> kitty_info.txt
+echo -e "\nLines that they appear on:" >> kitty_info.txt
