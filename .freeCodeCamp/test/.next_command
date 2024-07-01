@@ -186,3 +186,7 @@ echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep cat[a-z]* kitty_ipsum_1.txt -n
 grep cat[a-z]* kitty_ipsum_1.txt -n
 grep cat[a-z]* kitty_ipsum_1.txt -n
+grep cat[a-z]* kitty_ipsum_1.txt -n
+grep cat[a-z]* kitty_ipsum_1.txt -n
+grep cat[a-z]* kitty_ipsum_1.txt
+echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
